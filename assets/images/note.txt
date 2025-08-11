@@ -1,0 +1,1 @@
+increase minimum 50 px
