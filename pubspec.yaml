@@ -29,13 +29,13 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   google_maps_flutter: any
-  geolocator: ^11.0.0
+  geolocator: ^14.0.2
 #  google_map_location_picker: ^4.1.2+1
   url_launcher: ^6.2.6
 #  geocoder: ^0.2.1
 #  location: any
 #  smooth_star_rating: ^1.1.1
-  image_picker: ^0.8.9
+  image_picker: ^1.1.2
   fluttertoast: ^8.2.5
   font_awesome_flutter: ^10.6.0
   percent_indicator: ^4.2.3

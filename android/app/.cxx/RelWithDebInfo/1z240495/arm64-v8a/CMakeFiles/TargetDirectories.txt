@@ -1,0 +1,2 @@
+C:/Daten/Projects/TopMaxNew/android/app/.cxx/RelWithDebInfo/1z240495/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Daten/Projects/TopMaxNew/android/app/.cxx/RelWithDebInfo/1z240495/arm64-v8a/CMakeFiles/rebuild_cache.dir

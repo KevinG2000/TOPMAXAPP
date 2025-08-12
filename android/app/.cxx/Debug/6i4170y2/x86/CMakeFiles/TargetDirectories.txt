@@ -1,0 +1,2 @@
+C:/Daten/Projects/TopMaxNew/android/app/.cxx/Debug/6i4170y2/x86/CMakeFiles/edit_cache.dir
+C:/Daten/Projects/TopMaxNew/android/app/.cxx/Debug/6i4170y2/x86/CMakeFiles/rebuild_cache.dir
