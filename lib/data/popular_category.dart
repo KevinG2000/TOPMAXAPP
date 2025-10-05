@@ -12,25 +12,25 @@ class PopularCategoryList {
     const data = <PopularCategory> [
       PopularCategory(
         id: 1,
-        name: 'Hair Cut',
+        name: 'Cardio Crush',
         image: 'assets/images/popular_category/1.png',
         places: '78',
       ),
       PopularCategory(
         id: 2,
-        name: 'Style Saving',
+        name: 'Power Core',
         image: 'assets/images/popular_category/2.png',
         places: '82',
       ),
       PopularCategory(
         id: 3,
-        name: 'Hair Treatment',
+        name: 'Blaze Fit',
         image: 'assets/images/popular_category/3.png',
         places: '52',
       ),
       PopularCategory(
         id: 4,
-        name: 'Body Message',
+        name: 'Balance Burn',
         image: 'assets/images/popular_category/4.png',
         places: '11',
       ),

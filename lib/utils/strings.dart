@@ -4,12 +4,12 @@ class Strings {
   static String appName = 'Salong';
 
   //onBoard screen
-  static const String title1 = 'Every Client is Special';
-  static const String title2 = 'Embrace Technology';
-  static const String title3 = 'Keep it Clean';
-  static const String subTitle1 = 'Perfect salon booking apps for your beauty and comfortable life';
-  static const String subTitle2 = 'Perfect salon booking apps for your beauty and comfortable life';
-  static const String subTitle3 = 'Perfect salon booking apps for your beauty and comfortable life';
+  static const String title1 = 'Maximize your Power';
+  static const String title2 = 'Boost to a new level';
+  static const String title3 = 'Explore Top Maximum Power';
+  static const String subTitle1 = 'Keep track on your training to ensure it remains effective.';
+  static const String subTitle2 = 'You will be surprised at what is possible.';
+  static const String subTitle3 = 'We will make sure that your reach you goals.';
   static String getStarted = 'Get Started';
 
   //intro screen
@@ -73,17 +73,17 @@ class Strings {
 
   //dashboard screen
   static String home = 'Home';
-  static String nearby = 'Nearby';
+  static String nearby = 'Tracking';
   static String appointment = 'Appointment';
   static String inbox = 'Inbox';
   static String profile = 'Profile';
 
   //home screen
-  static String salonServicesBarber = 'Salon, Services, Barber';
-  static String chooseYourBarber = 'Choose Your Barber';
-  static String bestSalonServices = 'Best Salon Services';
+  static String salonServicesBarber = 'Workout, Supplies, Tracking';
+  static String chooseYourBarber = 'Select a coach';
+  static String bestSalonServices = 'Maximum Workout';
   static String popularCategories = 'Popular categories';
-  static String nearbySalon = 'Nearby Salon';
+  static String nearbySalon = 'Latest Videos';
   static String changePassword = 'Change Password';
   static String payment = 'Payment';
   static String notification = 'Notification';
@@ -111,11 +111,11 @@ class Strings {
   static String openingHours = 'Opening Hours';
 
   //appointment screen
-  static String customerType = 'Customer Type';
-  static String child = 'Child';
-  static String men = 'Men';
-  static String others = 'Others';
-  static String selectServices = 'Select Services';
+  static String customerType = 'Training Type';
+  static String child = 'Maximum Power';
+  static String men = 'Explosive Power';
+  static String others = 'Endurance';
+  static String selectServices = 'Select Excercise';
   static String next = 'Next';
 
   //appointment details screen

@@ -130,12 +130,12 @@ class _DashboardScreenState extends State<DashboardScreen> {
               label: "Home",
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.menu_book_outlined),
-              label: "Near by",
+              icon: Icon(Icons.fitness_center_outlined),
+              label: "Workout",
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.local_print_shop_outlined),
-              label: "Appointment",
+              icon: Icon(Icons.alarm_add_outlined),
+              label: "Tracking",
             ),
 
             BottomNavigationBarItem(
@@ -143,7 +143,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
               label: "Message",
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.redeem),
+              icon: Icon(Icons.person_outline),
               label: "Profile",
             ),
           ],

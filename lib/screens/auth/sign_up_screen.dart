@@ -390,14 +390,14 @@ class _SignUpScreenState extends State<SignUpScreen> {
                 top: -35.0,
                 left: -50.0,
                 child: Image.asset(
-                    'assets/images/splash_logo.png'
+                    'assets/images/splash_screen.gif'
                 )
             ),
             Positioned(
                 right: -35.0,
                 bottom: -20.0,
                 child: Image.asset(
-                    'assets/images/splash_logo.png'
+                    'assets/images/splash_screen.gif'
                 )
             ),
             Padding(

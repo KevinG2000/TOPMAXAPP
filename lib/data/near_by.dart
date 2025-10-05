@@ -14,27 +14,27 @@ class NearByList {
     const data = <NearBy> [
       NearBy(
         id: 1,
-        name: 'Aristo Gents Salon',
+        name: 'Bachata Workout',
         image: 'assets/images/nearby/1.png',
-        location: 'Captown City',
+        location: 'Iron District Munich',
         rating: '4.0',
-        status: 'open'
+        status: 'starting soon'
       ),
       NearBy(
         id: 2,
-        name: 'Hiphop Salon',
+        name: 'Hiphop Workout',
         image: 'assets/images/nearby/2.png',
-        location: 'Montan Plaza',
+        location: 'Cologne Studio',
         rating: '4.5',
-        status: 'close'
+        status: 'live'
       ),
       NearBy(
           id: 3,
-          name: 'Modern BB Shop',
+          name: 'Reaggeton Workout',
           image: 'assets/images/nearby/3.png',
-          location: 'Nobin Tower',
+          location: 'Muscle Lab Pulheim',
           rating: '4.5',
-          status: 'close'
+          status: 'finished'
       ),
     ];
     return data;

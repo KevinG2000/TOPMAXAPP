@@ -9,6 +9,20 @@
             "flutterMode": "debug"
         },
         {
+            "name": "Flutter (Chrome)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "chrome",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "Flutter (Edge)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "edge",
+            "flutterMode": "debug"
+        },
+        {
             "name": "Flutter (Debug Mode)",
             "request": "launch",
             "type": "dart",
