@@ -16,6 +16,7 @@ import 'package:salong/screens/filter_screen.dart';
 
 import '../add_new_card_screen.dart';
 import 'appointment_screen.dart';
+import 'package:salong/screens/dashboard/add_new_tracking_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
@@ -80,7 +81,32 @@ class _HomeScreenState extends State<HomeScreen> {
               chooseBarberWidget(context),
               bestSalonServicesWidget(context),
               popularCategoryWidget(context),
-              nearbySaloonWidget(context)
+              nearbySaloonWidget(context),
+              Container(
+                margin: EdgeInsets.symmetric(vertical: 16.0),
+                width: double.infinity,
+                child: ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: CustomColor.accentColor,
+                    padding: EdgeInsets.symmetric(vertical: 16.0),
+                  ),
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => YourExercisesScreen(),
+                      ),
+                    );
+                  },
+                  child: Text(
+                    'Your Exercises',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
 
             ],
           ),
